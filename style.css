@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: cursive;
+    font-family: sans-serif, cursive;
     color: #fff;
     font-size: 1.6em;
 }
@@ -66,9 +66,9 @@ a{
     border-right: 1px solid orange;
 }
 
-/* footer */
+/* aside */
 
-#footer{
+#aside{
     justify-content: center;
     background: cadetblue;
     text-align: center;
