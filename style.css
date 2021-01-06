@@ -86,10 +86,12 @@ a{
     background-position: 50%;
     background-repeat: no-repeat;
 }
-
+ 
 #section{
     display: grid;
 }
+
+.nav-bar 
 
 /* Main */
 .roadmap{
