@@ -64,6 +64,22 @@ a{
     margin: 0 5px;
 }
 
+#github:hover{
+    color: #a2a2a2;
+}
+
+#linkedin:hover{
+    color:#2867B2;
+}
+
+#instagram:hover{
+    color: #d6249f;
+}
+
+#mail:hover{
+    color: #ff9900;
+}
+
 /* aside */
 
 #aside{
