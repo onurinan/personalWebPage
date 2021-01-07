@@ -91,7 +91,9 @@ a{
     display: grid;
 }
 
-.nav-bar 
+.nav-bar a:hover{
+    color: orange;
+}
 
 /* Main */
 .roadmap{
