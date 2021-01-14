@@ -137,4 +137,18 @@ a{
     #page-wrapper{
         display: block;
     }
+    #section{
+        display: flex;
+        flex-direction: column;
+    }
+    .personal-information h1{
+        font-size: 25px;
+    }
+    .personal-information h4{
+        font-size: 18px;
+    }
+    p{
+        font-size: 16px;
+        font-weight: 600;
+    }
 }
