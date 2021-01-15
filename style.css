@@ -138,6 +138,9 @@ a{
     .profile, .nav-bar {
         display: none;
     }
+    .header{
+        background-image: url(./img/header-image.png);
+    }
     #main{
         grid-row: 1/2;
         grid-column: 1;
